@@ -1,0 +1,1 @@
+{"data": {"ml": {"training_data": "data/ml_training_data.joblib", "testing_data": "data/ml_testing_data.joblib"}, "nlp": {"train_dataset": "data/train_dataset", "test_dataset": "data/test_dataset"}}, "models": {"best_ml_model": "models/best_ml_model.joblib", "label_encoder": "models/label_encoder.joblib", "best_nlp_model": "models/best_nlp_model"}}
